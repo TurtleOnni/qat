@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.qat-menu-top li {
+    display: inline;
+    padding: 10px 15px;
+    list-style: none;
+}
+
+table thead {
+    font-weight: bold;
+}
+
+.filters {
+    display: flex;
+}
+.errorList {
+    color: red;
+}
